@@ -19,7 +19,7 @@ GO
 -- =============================================
 -- Author:		<Author,,Name>
 -- Create date: <Create Date,,>
--- Description:	<Description,,>
+-- Description:	<TRIGGER PARA CUANDO SE INSERTA UN DATO>
 -- =============================================
 IF OBJECT_ID('dbo.trAutoresAuditarInsert', 'TR') IS NOT NULL DROP TRIGGER dbo.trAutoresAuditarInsert
 GO
