@@ -1,4 +1,6 @@
 # SQL
+En la carpeta demo está el código documentado
+
 
 Para la creación de una auditoría en SQL se hace uso de la base de datos Biblioteca u otra base que contenga las tablas correspondientes
 
