@@ -3,7 +3,7 @@
 --Creacion de una auditoria mediente triggers, procedimientos almacenados y tablas temporales
 
 --Primer paso: creacion de una nueva tabla llamada auditoría en la base de datos biblioteca ya existente
-Use Biblioteca
+Use Asocia_cines
 go
 --crear tabla para registrar cambios
 Create table Auditoria(
