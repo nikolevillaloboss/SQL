@@ -1,6 +1,6 @@
 # SQL
 
-Para la creación de una auditoría en SQL se hace uso de la base de datos Biblioteca 
+Para la creación de una auditoría en SQL se hace uso de la base de datos Biblioteca u otra base que contenga las tablas correspondientes
 
 Primer paso: Creación de las tablas Auditoria y Autores del archivo CrearTablas en SQL
 
